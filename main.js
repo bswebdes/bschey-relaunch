@@ -1,3 +1,3 @@
-let test = "Das ist ein Test";
+let test = "Zweiter Test";
 
 console.log(test);
